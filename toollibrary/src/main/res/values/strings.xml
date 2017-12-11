@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="qmui_tool_fixellipsize">\u200b</string>
+</resources>
